@@ -8,10 +8,19 @@ As well as conflicts
 ```
 git checkout -b <dev-name-of-branch>
 ```
-  
+
 Naming convention is:
 ```
   dev-description-of-feature
 ```
 
-# Push from branch
+# Flow
+1) make a new branch
+2) code has git add and git commit
+3) push branch to origin
+
+## Useful git commands:
+- git checkout -b <branch>
+- git checkout <branch> (to move within branches)
+- git branches (to see branches)
+-
